@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="216pt" version="1.1" viewBox="0 0 216 216" width="216pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 216 
+L 216 216 
+L 216 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path clip-path="url(#p0bcc5ffc9f)" d="M 160.467521 29.658352 
+L 159.7236 43.1511 
+L 154.946883 40.14875 
+L 123.481604 99.48015 
+L 123.417487 99.43985 
+L 154.882766 40.10845 
+L 150.106048 37.1061 
+z
+" style="fill:#1b9e77;stroke:#1b9e77;stroke-linejoin:miter;stroke-width:15;"/>
+   </g>
+   <g id="patch_3">
+    <path clip-path="url(#p0bcc5ffc9f)" d="M 177.084473 83.814389 
+L 167.794631 92.782533 
+L 166.367068 86.982438 
+L 123.459126 99.498927 
+L 123.439964 99.421073 
+L 166.347906 86.904584 
+L 164.920344 81.104489 
+z
+" style="fill:#d95f02;stroke:#d95f02;stroke-linejoin:miter;stroke-width:15;"/>
+   </g>
+   <g id="patch_4">
+    <path clip-path="url(#p0bcc5ffc9f)" d="M 59.332532 139.76 
+L 66.173736 128.479876 
+L 68.931575 133.680099 
+L 123.431036 99.425099 
+L 123.468054 99.494901 
+L 68.968593 133.749901 
+L 71.726432 138.950124 
+z
+" style="fill:#7570b3;stroke:#7570b3;stroke-linejoin:miter;stroke-width:15;"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path d="M 0 15.811388 
+C 4.193229 15.811388 8.215279 14.145401 11.18034 11.18034 
+C 14.145401 8.215279 15.811388 4.193229 15.811388 0 
+C 15.811388 -4.193229 14.145401 -8.215279 11.18034 -11.18034 
+C 8.215279 -14.145401 4.193229 -15.811388 0 -15.811388 
+C -4.193229 -15.811388 -8.215279 -14.145401 -11.18034 -11.18034 
+C -14.145401 -8.215279 -15.811388 -4.193229 -15.811388 0 
+C -15.811388 4.193229 -14.145401 8.215279 -11.18034 11.18034 
+C -8.215279 14.145401 -4.193229 15.811388 0 15.811388 
+z
+" id="ma5581b61fa" style="stroke:#000000;"/>
+    </defs>
+    <g clip-path="url(#p0bcc5ffc9f)">
+     <use style="stroke:#000000;" x="123.449545" xlink:href="#ma5581b61fa" y="99.46"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0bcc5ffc9f">
+   <rect height="177.32" width="162.879091" x="42.01" y="10.8"/>
+  </clipPath>
+ </defs>
+</svg>

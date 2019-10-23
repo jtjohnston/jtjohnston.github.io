@@ -1,0 +1,39 @@
+# main links
+main:
+  - title: "Publications"
+    url: /publications/
+  - title: "Art of Science Gallery"
+    url: /art-of-science/
+  - title: "CV"
+    url: /cv.pdf
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+#aos:
+#  - title: Neutron Diffraction
+#    children:
+#      - title: "Neutron Squid"
+#        url: {{ site.url }}{{ site.baseurl }}/art-of-science/#neutron-squid-2019
+#      - title: "Eye of Neutron"
+#        url: {{ site.url }}{{ site.baseurl }}/art-of-science/#eye-of-neutron-2019
+# 
+#  - title: Graphs
+#    children: 
+#      - title: "Neutron Squid"
+#        url: {{ site.url }}{{ site.baseurl }}/art-of-science/#neutron-squid-2019
+#      - title: "Eye of Neutron"
+#        url: {{ site.url }}{{ site.baseurl }}/art-of-science/#eye-of-neutron-2019
+
+
+docs:
+  - title: Neutron Diffraction
+    children:
+      - title: "Neutron Squid"
+        url: /art-of-science/#neutron-squid-2019
+      - title: "Eye of Neutron"
+        url: /art-of-science/#eye-of-neutron-2019
+
