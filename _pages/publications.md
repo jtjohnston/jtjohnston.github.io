@@ -13,6 +13,9 @@ Authors marked with \* were students I was mentoring at the time of publication.
 ## 2019
 
 ### A Novel Pruning Method for Convolutional Neural Networks Based off Identifying Critical Filters
+<p align="center">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/publications/greedy_pruning_algo_a.png" alt="Pruning diagram" height="100"> <img src="{{ stie.url }}{{ site.baseurl }}/assets/images/publications/emnist_ind_filter_effect_2.png" alt="Pruning effects" height="200" width="200" >  
+</p>  
 <span style="color:red"> Best Student Paper, ML/AI Track </span>  
 <span style="color:red"> Phil Andrews award winner </span> for most transformative contribution  
 Mihaela Dimovska\* and **Travis Johnston**.  
