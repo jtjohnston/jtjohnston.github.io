@@ -37,3 +37,20 @@ docs:
       - title: "Eye of Neutron"
         url: /art-of-science/#eye-of-neutron-2019
 
+
+pubs:
+  - title: Publication is 2019
+    url: /publications/#2019
+    children:
+      - title: A Novel Pruning Method for CNNs
+        url: /publications/#a-novel-pruning-method-for-convolutional-neural-networks-based-off-identifying-critical-filters
+  - title: Publications in 2018
+    url: /publications/#2018
+    children:
+      - title: "Deep Learning for Electron Microscopy"
+        url: /publications/#167-pflops-deep-learning-for-electron-microscopy-from-learning-physics-to-atomic-manipulation
+  - title: Publications in 2017
+    url: /publications/#2017
+    children:
+      - title: "Optimizing CNNs for Cloud Detection"
+        url: /publications/#optimizing-convolutional-neural-networks-for-cloud-detection
