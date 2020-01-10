@@ -54,3 +54,15 @@ pubs:
     children:
       - title: "Optimizing CNNs for Cloud Detection"
         url: /publications/#optimizing-convolutional-neural-networks-for-cloud-detection
+      - title: "Evolving Deep Networks Using HPC"
+        url: /publications/#evolving-deep-networks-using-hpc
+  - title: Publications in 2015
+    url: /publications/#2015
+    children:
+      - title: "Boolean Algebras and Lubell Functions"
+        url: /publications/#boolean-algebras-and-lubell-functions
+  - title: Publications in 2014
+    url: /publications/#2014
+    children: 
+      - title: "Turan Problems on Non-Uniform Hypergraphs"
+        url: /publications/#turan-problems-on-non-uniform-hypergraphs

@@ -43,3 +43,31 @@ Read the [full paper]( https://dl.acm.org/doi/abs/10.5555/3291656.3291723 ) and 
 </p>
 **Travis Johnston**, Steven R. Young, David Hughes, Robert M. Patton, and Devin White.  
 Read the [full paper]( https://dl.acm.org/doi/abs/10.1145/3146347.3146352 ) and [cite it]({% link _pages/bibtex-johnston-cloud-detection-2017.tex %}).
+
+
+### Evolving Deep Networks Using HPC
+Steven R. Young, Derek C. Rose, **Travis Johnston**, William T. Heller, Thomas P. Karnowski, Thomas E. Potok, Robert M. Patton, Gabriel Perdue, and Jonathan Miller.  
+Read the [full paper]( https://dl.acm.org/doi/10.1145/3146347.3146355 ) and [cite it]({% link _pages/bibtex-young-2017.tex %}).
+
+
+## 2016
+
+
+
+## 2015
+
+
+### Boolean Algebras and Lubell Functions
+**Travis Johnston**, Linyuan Lu, and Kevin G. Milans.  
+Read the [full paper]( https://www.sciencedirect.com/science/article/pii/S0097316515000746 ) and [cite it]({% link _pages/bibtex-lubell-2015.tex %}).  
+Note, a [draft]( https://arxiv.org/abs/1307.3312 ) of the paper was published on the arXiv in 2013.
+
+
+## 2014
+
+
+### Turan Problems on Non-Uniform Hypergraphs
+**Travis Johnston**, and Linyuan Lu.  
+Read the [full paper]( https://www.combinatorics.org/ojs/index.php/eljc/article/view/v21i4p22 ) and [cite it]({% link _pages/bibtex-johnston-2014.tex %}).  
+Note, a [draft]( https://arxiv.org/abs/1301.1870 ) of the paper was published on the arXiv in 2013.
+
