@@ -10,7 +10,16 @@ This is a (periodically) updated list of publications.
 Authors marked with \* were students I was mentoring at the time of publication.
 
 
+
 ## 2019
+
+### Exascale Deep Learning to Accelerate Cancer Research
+<p align="center">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/publications/whole-slide-w-mask.jpg" alt="TIL mask on cancer tissue" width="400"> 
+</p>  
+Robert M. Patton, **J. Travis Johnston**, Steven R. Young, Catherine D. Schuman, Thomas E. Potok, Derek C. Rose, Seung-Hwan Lim, Junghoon Chae, Le Hou, Shahira Abousamra, Dimitris Samaras, Joel Saltz.
+Read the [full paper](https://ieeexplore.ieee.org/document/9006467) and [cite it]({% link _pages/bibtex-patton-2019.tex %}).
+
 
 ### A Novel Pruning Method for Convolutional Neural Networks Based off Identifying Critical Filters
 <p align="center">
