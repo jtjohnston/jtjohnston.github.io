@@ -42,6 +42,8 @@ pubs:
   - title: Publication is 2019
     url: /publications/#2019
     children:
+      - title: Exascale Deep Learning
+        url: /publications/#exascale-deep-learning-to-accelerate-cancer-research
       - title: A Novel Pruning Method for CNNs
         url: /publications/#a-novel-pruning-method-for-convolutional-neural-networks-based-off-identifying-critical-filters
   - title: Publications in 2018
